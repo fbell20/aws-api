@@ -1,6 +1,6 @@
 # farrinfirsttest
 
-A new Flutter project.
+A new Flutter project as I embark on creating my first test iOS app that plays random music customized to the listener. 
 
 ## Getting Started
 
